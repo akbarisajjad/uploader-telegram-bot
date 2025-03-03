@@ -1,0 +1,5 @@
+aiogram
+python-dotenv
+sqlite3
+fastapi
+uvicorn
